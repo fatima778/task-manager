@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body.dark-theme {
+    background-color: #0e1727; /* Example dark background */
+    color: #e2e8f0; /* Example dark text color */
+}
+
+body.light-theme {
+    background-color: #f7fafc; /* Example light background */
+    color: #15191f; /* Example light text color */
+}
